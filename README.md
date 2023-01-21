@@ -1,5 +1,5 @@
 # Amsterdam airbnb prices
-Comparison of airbnb prices near the chosen coordinates
+Comparison of airbnb prices based on chosen coordinates.
 
 [URL here](https://zuzannajusz-amsterdam-airbnb-streamlit-app-v8hf8i.streamlit.app/)
 
